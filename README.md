@@ -1,0 +1,2 @@
+# Python Glossary
+ Practicing Python
