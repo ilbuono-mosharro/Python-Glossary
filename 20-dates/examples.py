@@ -36,3 +36,6 @@ date = datetime.datetime.now()
 print(date)
 print(f"{date.year}-{date.month}-{date.day} {date.hour}:{date.minute}:{date.second}:{date.microsecond}")
 print(date.strftime("%B %Y"))
+
+date_timedelta = date - datetime.timedelta(days=7)
+print(date_timedelta)
