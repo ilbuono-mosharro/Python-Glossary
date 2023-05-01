@@ -16,8 +16,7 @@ age = 31
 print(age) #Will print 31
 
 email = "mm@gmail.com"
-print(email) #Will print marinariomustafa@gmail.com
-
+print(email) #Will print mm@gmail.com
 tall = 179.2
 print(tall) #Will print 179.2
 
